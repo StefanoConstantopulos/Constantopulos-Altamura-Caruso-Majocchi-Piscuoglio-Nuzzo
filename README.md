@@ -1,7 +1,5 @@
 Progetto Coding:
 Constantopulos-Altamura-Caruso-Majocchi-Piscuoglio
 
-sfondo che inizia a scorrere con degli ostacoli sovrapposti ad esso
-spostamento a destra e sinistra della macchina per schivare eventuali ostacoli tramite le freccette direzionali della tastiera con commento scritto a seconda dell’efficacia della mossa eseguita.
-pressione del mouse su un punto specifico del paesaggio per l’ottenimento di un veicolo esteticamente più godibile.
-con la collisione della macchina sugli ostacoli il gioco finisce con un commento negativo scritto e va riavviato.
+Il gioco consiste in una macchina(Giocatore) su uno sfondo che inizia a scorrere, con degli ostacoli sovrapposti ad esso, per muoversi bisogna usare le freccette direzionali, la destra per lo spostamento a destra e la sinistra per lo spostamento a sinistra, la macchina deve schivare eventuali ostacoli tramite il movimento, con eventuale scritta game over se si dovessero colpire un ostacolo.
+Bisogna esercitare pressione sul mouse in un punto specifico dello sfondo per l’ottenimento di un veicolo esteticamente più godibile.
