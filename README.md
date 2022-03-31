@@ -7,13 +7,14 @@ Per lo spostamento bisogna usare le freccette direzionali sulla tastiera: la fre
 L'obiettivo del gioco consiste nell'evitare eventuali ostacoli tramite il movimento delle freccette e di conseguenza della macchina.
 Nel caso in cui si dovesse colpire un ostacolo, apparirà la scritta "GAME OVER" che sancirà la fine della partita, quindi al ripristino del punteggio.
 
-
-Funzioni aggiuntive:
-Bisogna esercitare pressione sul tasto sinistro del mouse in un punto specifico dello sfondo per l’ottenimento di un veicolo esteticamente più godibile. 
+Funzioni aggiuntive: 
+Per rendere il veicolo esteticamente più piacevole, bisogna esercitare pressione sul tasto sinistro del muose in corrispondenza del sole sul background.
 
 Utenti:
 Gioco in modalità: giocatore singolo.
 
 Punti:
-L'accumulo di punti da parte del giocatore è determinato dal tempo in cui esso stesso riesce 
+L'accumulo di punti da parte del giocatore è determinato dal tempo in cui esso riesce portare una singola partità.
 
+Classifica:
+La classifica è intesa come elenco dei punteggi migliori ottenuti dal giocatore.
