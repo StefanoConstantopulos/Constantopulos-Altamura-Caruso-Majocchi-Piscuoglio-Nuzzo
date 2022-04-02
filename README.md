@@ -12,6 +12,7 @@ Per rendere il veicolo esteticamente più piacevole, bisogna esercitare pression
 
 Utenti:
 Gioco in modalità: giocatore singolo.
+
 E' in fase di progettazione una modalità multigiocatore, essa consiste nel far interpretare il ruolo di macchina a giocatore1, mentre giocatore2 dovrà indirizzare degli ostacoli in movimento verso giocatore1.
 I punti accumulati da giocatore1 verranno determinati dal tempo in cui esso riuscirà a portare avanti la partità, partendo da 0 punti.
 Giocatore2 dovrà cercare di colpire giocatore1 il prima possibile, meno tempo impiegherà, più saranno i punti assegnati.
